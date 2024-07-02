@@ -1,0 +1,15 @@
+C:\Users\Pizda\Desktop\last\last\bin\Debug\net8.0\last.exe
+C:\Users\Pizda\Desktop\last\last\bin\Debug\net8.0\last.deps.json
+C:\Users\Pizda\Desktop\last\last\bin\Debug\net8.0\last.runtimeconfig.json
+C:\Users\Pizda\Desktop\last\last\bin\Debug\net8.0\last.dll
+C:\Users\Pizda\Desktop\last\last\bin\Debug\net8.0\last.pdb
+C:\Users\Pizda\Desktop\last\last\obj\Debug\net8.0\last.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pizda\Desktop\last\last\obj\Debug\net8.0\last.AssemblyInfoInputs.cache
+C:\Users\Pizda\Desktop\last\last\obj\Debug\net8.0\last.AssemblyInfo.cs
+C:\Users\Pizda\Desktop\last\last\obj\Debug\net8.0\last.csproj.CoreCompileInputs.cache
+C:\Users\Pizda\Desktop\last\last\obj\Debug\net8.0\last.sourcelink.json
+C:\Users\Pizda\Desktop\last\last\obj\Debug\net8.0\last.dll
+C:\Users\Pizda\Desktop\last\last\obj\Debug\net8.0\refint\last.dll
+C:\Users\Pizda\Desktop\last\last\obj\Debug\net8.0\last.pdb
+C:\Users\Pizda\Desktop\last\last\obj\Debug\net8.0\last.genruntimeconfig.cache
+C:\Users\Pizda\Desktop\last\last\obj\Debug\net8.0\ref\last.dll
